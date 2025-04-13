@@ -1,41 +1,29 @@
 # FiveM2Discord Client
-Simple resource that allows you to have server notifications sent to a discord channel using webhooks!
+> ⚠️ **DEPRECATED**: This resource has been superseded by [Pixel Logs](https://github.com/ByteBrushStudios/pixel_logs)
 
----
+## Important Notice
+This resource is no longer maintained and has been replaced by [Pixel Logs](https://github.com/ByteBrushStudios/pixel_logs), a more advanced and feature-rich Discord logging system for both FiveM and RedM.
 
-## Available Notifications Include
-- `Player Death Notifications`
-- `Player Join & Leave Notifications`
-- `/911 Commands Usage`
+## Why Switch to Pixel Logs?
+Pixel Logs offers several improvements over this resource:
 
----
+- 🎨 **Enhanced Message Formatting**: Rich embeds with customizable titles, descriptions, and fields
+- 🔍 **Comprehensive Logging**: Support for various event types including chat, deaths, commands, and more
+- 🛡️ **Better Security**: Improved identifier handling and privacy controls
+- 🎮 **RedM Support**: Compatible with both FiveM and RedM servers
+- 🔧 **Easy Configuration**: Simple setup with extensive customization options
+- 📊 **Debug Tools**: Built-in debugging features for easier troubleshooting
+- 🖼️ **Avatar Support**: Customizable player avatars in Discord messages
 
-**Please Note:** 
-- This resource does **not** give you chat commands it simply logs them.
+## Migration Guide
+To migrate from FiveM2Discord to Pixel Logs:
 
-- You will most likely need a `chat commands` resource for this to communicate with.
+1. Remove this resource from your server
+2. Download and install [Pixel Logs](https://github.com/ByteBrushStudios/pixel_logs)
+3. Configure your webhooks and settings in the new resource
+4. Restart your server
 
----
-
-### Getting Started
-
-- [Install](https://help.toxicdev.me/internal/fivem2discord/install/)
-
-- [Setup](https://help.toxicdev.me/internal/fivem2discord/setup/)
-
-- [Common Fixes](https://help.toxicdev.me/internal/fivem2discord/fixes/)
-
-- [Get Support](https://toxicdevs.site/discord)
-
-
----
-
-### Additional Support/Contact
-If you are experiencing issues please feel free to Contact me by creating an issue on the [Github Repo](https://github.com/toxic-development/FiveM2Discord/issues)
-
----
-
-### Official Repository
-**NOTICE:** Any repositories not owned or created by NARC-FiveM, TheRealToxicDev or Toxic Development are fake and should be reported to me xD
-
-> Make sure you follow and leave a star on the repo!
+## Support
+For support with Pixel Logs, please visit:
+- [GitHub Issues](https://github.com/ByteBrushStudios/pixel_logs/issues)
+- [Discord Support](https://discord.gg/Vv2bdC44Ge)
